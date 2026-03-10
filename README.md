@@ -42,4 +42,4 @@ docker compose up --build
 
 ## Notes
 Some data are handled directly in the backend/database.
-The frontend only focuses on the ticket submission and management features.
+The frontend only focuses on the ticket submission and workflow features.
