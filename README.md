@@ -18,11 +18,13 @@ A simple support ticket management system that allows users to create tickets, a
 - Dashboard for assigned jobs
 - Pagination for ticket browsing
 
-## Project Structur
+## Project Structure
+```
 .
-├── backend # Go API (Gin)
-├── frontend # React application
+├── backend/
+├── frontend/
 └── docker-compose.yml
+```
 
 ## Getting Started
 
