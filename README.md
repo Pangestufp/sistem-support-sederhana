@@ -1,15 +1,29 @@
-# Sistem Support Sederhana
+# Simple Support Ticket System
 
-A simple support ticket submission system with a backend API and a Flutter frontend.
+A simple support ticket management system that allows users to create tickets, attach files, and process approval workflows.
 
 ## Tech Stack
-- Backend: Gin
-- Frontend: React
-- Database: MySQL
-- Container: Docker
 
-## Project Structure
+- **Backend**: Gin (Go)
+- **Frontend**: React
+- **Database**: MySQL
+- **Containerization**: Docker
+
+## Features
+
+- Create support tickets
+- Upload attachments
+- Ticket workflow approval
+- Ticket review and return
+- Dashboard for assigned jobs
+- Pagination for ticket browsing
+
+## Project Structur
 .
-├── backend
-├── frontend
+├── backend # Go API (Gin)
+├── frontend # React application
 └── docker-compose.yml
+
+## Getting Started
+
+### 1. Clone the repository
